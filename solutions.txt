@@ -1,0 +1,14 @@
+Lantern: w s n
+Coins: blue, red, shiny, concave, corroded
+Teleporter: r7 = 25734
+Vault: n e e n w s e e w n n e
+
+Codes:
+  RTFM:        yDWTYvABgxqZ
+  Basic VM:    rGXUrANgtSdq
+  Full VM:     xDFWgWLRnEWY
+  Tablet:      eVyzGTUnchAF
+  Maze:        jdQUCJRDuOEH
+  Synacor HQ:  ztiCsFpPIEOH
+  Teleporter:  BTiuMvDZgoWR
+  Vault:       WpoIdOollovM
